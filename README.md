@@ -73,7 +73,6 @@
 | Project | Tech Stack | Key Features |
 | :--- | :--- | :--- |
 | **🤖 CareerVerse AI** | React.js, FastAPI, MongoDB, Groq AI, JWT | AI Career Counsellor, Skill Profiler, College Finder & Scholarship Recommender |
-| **🧠 Cognivo** | Next.js, TypeScript, Groq SDK | AI-powered study and interview coaching platform, built for InnovaHack |
 | **📚 Student Course Registration System** | React.js, Node.js, Express.js, MongoDB | Student Management, Course Enrollment, PDF Summary Reports |
 | **🎫 Bus Ticket Booking System** | Java, Swing, MySQL, JDBC | Real-time Seat Tracking, Booking & Cancellation workflows |
 
@@ -96,7 +95,6 @@
 ## 📊 Stats & Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PragnyaYelisetti&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PragnyaYelisetti&theme=tokyonight&hide_border=true"/>
 </p>
 
