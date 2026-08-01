@@ -86,17 +86,17 @@
 ## 📊 Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pragnyayelisetti&show_icons=true&theme=tokyonight&hide_border=true" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragnyayelisetti&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PragnyaYelisetti&show_icons=true&theme=tokyonight&hide_border=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragnyaYelisetti&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pragnyayelisetti&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PragnyaYelisetti&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pragnyayelisetti&theme=algolia&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PragnyaYelisetti&theme=algolia&no-bg=true"/>
 </p>
 
 ---
