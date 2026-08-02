@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:00C9FF&height=250&section=header&text=Pragnya%20Yelisetti&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Pragnya+Yelisetti;Full+Stack+Developer;AI+Enthusiast;Competitive+Programmer;900%2B+LeetCode+Problems;Always+Learning+Something+New+🚀"/>
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Pragnya+Yelisetti;Full+Stack+Developer;AI+Enthusiast;Competitive+Programmer;900%2B+LeetCode+Problems"/>
+</p>
 <h3 align="center">
 Aspiring Software Engineer • Full Stack Developer • AI Enthusiast • Competitive Programmer
 </h3>
