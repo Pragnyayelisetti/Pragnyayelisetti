@@ -25,7 +25,6 @@ Aspiring Software Engineer • Full Stack Developer • AI Enthusiast • Compet
 
 # 👩‍💻 About Me
 
-<img align="right" width="370" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
 
 🎓 **B.Tech in Computer Science & Engineering**  
 📍 **Aditya University (2024–2028)**
