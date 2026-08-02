@@ -79,22 +79,6 @@ Aspiring Software Engineer • Full Stack Developer • AI Enthusiast • Compet
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -212,13 +196,13 @@ Aspiring Software Engineer • Full Stack Developer • AI Enthusiast • Compet
 
 <p align="center">
 
-🏅 **800+** Problems Solved on **LeetCode**
+🏅 **900+** Problems Solved on **LeetCode**
 
 🏆 **200 Days Badge** on LeetCode
 
 ⭐ **900+ Rating** on Codeforces
 
-🔥 **300+ Problems** on CodeChef
+🔥 **400+ Problems** on CodeChef
 
 🚀 **1700+ Peak Rating** on Code360
 
@@ -230,18 +214,19 @@ Aspiring Software Engineer • Full Stack Developer • AI Enthusiast • Compet
 
 # 📜 Certifications
 
-✔ Microsoft Office Specialist (Excel 2019)
+🏅 **Oracle Certified Foundations Associate – Database** | Oracle University
 
-✔ PL-900: Microsoft Power Platform Fundamentals
+🏅 **Microsoft Office Specialist (Excel 2019)** | Microsoft
 
-✔ SQL (Intermediate) – HackerRank
+🏅 **PL-900: Microsoft Power Platform Fundamentals** | Microsoft
 
-✔ Building with Claude API – Anthropic
+🏅 **SQL (Intermediate)** | HackerRank
 
-✔ Claude Code in Action – Anthropic
+🏅 **Building with Claude API** | Anthropic
 
-✔ Introduction to Model Context Protocol – Anthropic
+🏅 **Claude Code in Action** | Anthropic
 
+🏅 **Introduction to Model Context Protocol** | Anthropic
 ---
 
 # 🎯 Current Goals
@@ -256,39 +241,11 @@ Aspiring Software Engineer • Full Stack Developer • AI Enthusiast • Compet
 
 🌟 Continuously improve through Competitive Programming
 
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="YOUR_LEETCODE_LINK">
-<img src="https://img.shields.io/badge/LeetCode-800%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="YOUR_CODEFORCES_LINK">
-<img src="https://img.shields.io/badge/Codeforces-900%2B%20Rating-blue?style=for-the-badge&logo=codeforces"/>
-</a>
-
-<a href="YOUR_CODECHEF_LINK">
-<img src="https://img.shields.io/badge/CodeChef-300%2B%20Problems-brown?style=for-the-badge&logo=codechef"/>
-</a>
-
-<a href="YOUR_HACKERRANK_LINK">
-<img src="https://img.shields.io/badge/HackerRank-4★-green?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-</p>
 
 ---
 
 
 # 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PragnyaYelisetti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragnyaYelisetti&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PragnyaYelisetti&theme=tokyonight&hide_border=true"/>
@@ -300,14 +257,6 @@ Aspiring Software Engineer • Full Stack Developer • AI Enthusiast • Compet
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PragnyaYelisetti&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PragnyaYelisetti&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -331,28 +280,6 @@ Aspiring Software Engineer • Full Stack Developer • AI Enthusiast • Compet
 
 </div>
 
----
-
-# 🌟 GitHub Overview
-
-<div align="center">
-
-| 💡 Focus | 📚 Currently Learning |
-|-----------|-----------------------|
-| Full Stack Development | System Design |
-| Artificial Intelligence | Cloud Computing |
-| Open Source | DevOps Fundamentals |
-| Competitive Programming | Advanced Backend |
-
-</div>
-
----
-
-# 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
 
 ---
 
