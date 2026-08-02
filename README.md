@@ -12,18 +12,20 @@ Aspiring Software Engineer • Full Stack Developer • AI Enthusiast • Compet
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PragnyaYelisetti&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=PragnyaYelisetti&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
 
-  <img src="https://img.shields.io/github/followers/PragnyaYelisetti?style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/github/followers/PragnyaYelisetti?style=for-the-badge"/>
 
-  <img src="https://img.shields.io/github/stars/PragnyaYelisetti?affiliations=OWNER&style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/github/stars/PragnyaYelisetti?affiliations=OWNER&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="370" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
 
 🎓 **B.Tech in Computer Science & Engineering**  
 📍 **Aditya University (2024–2028)**
@@ -320,5 +322,5 @@ If you have an exciting idea or project, feel free to connect with me!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,6C63FF,00C9FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:00C9FF&height=180&section=footer&animation=twinkling"/>
 </p>
