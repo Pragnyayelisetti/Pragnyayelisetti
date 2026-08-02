@@ -224,6 +224,8 @@ Aspiring Software Engineer • Full Stack Developer • AI Enthusiast • Compet
 🏅 **Claude Code in Action** | Anthropic
 
 🏅 **Introduction to Model Context Protocol** | Anthropic
+
+
 ---
 
 # 🎯 Current Goals
